@@ -14,6 +14,6 @@
 	    	En zijn pagina.
 	    </p>
     </header>
-    
+    <?php echo "My first PHP script!"; ?>
 </body>
 </html>
